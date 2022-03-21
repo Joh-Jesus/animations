@@ -1,0 +1,4 @@
+#Mon Mar 21 15:24:44 BRT 2022
+base.0=/mnt/0AEA181052142728/projetos/animations/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
